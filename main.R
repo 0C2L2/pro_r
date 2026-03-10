@@ -1,1 +1,1 @@
-print("duck")
+print("main")
