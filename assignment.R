@@ -1,0 +1,1 @@
+print("Assignment 1 from class 2")
